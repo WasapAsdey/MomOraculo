@@ -1,18 +1,18 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "../assets/CapitanCP.jpg",
-  "../assets/el ingeniero.jpg",
-  "../assets/elperrincolorado.jpg",
-  "../assets/GatoVoid.jpg",
-  "../assets/minionñero.jpg",
-  "../assets/perrobufon.jpg",
-  "../assets/ShadowEstiloso.jpg",
-  "../assets/Chamba.jpg",
-  "../assets/ElÑoquer.jpg",
-  "../assets/GatoTriste.jpg",
-  "../assets/JuanDepre.jpg",
-  "../assets/Mi primo.jpg",
-  "../assets/papa.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/CapitanCP.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/el ingeniero.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/elperrincolorado.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/GatoVoid.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/minionñero.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/perrobufon.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/ShadowEstiloso.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/Chamba.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/ElÑoquer.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/GatoTriste.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/JuanDepre.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/Mi primo.jpg",
+  "../momoraculo-made-by-sdlg-2/assets/papa.jpg",
 ];
 
 const titulos = [
