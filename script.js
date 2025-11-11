@@ -1,17 +1,52 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
+  "../assets/CapitanCP.jpg",
+  "../assets/el ingeniero.jpg",
+  "../assets/elperrincolorado.jpg",
+  "../assets/GatoVoid.jpg",
+  "../assets/minionñero.jpg",
+  "../assets/perrobufon.jpg",
+  "../assets/ShadowEstiloso.jpg",
+  "../assets/Chamba.jpg",
+  "../assets/ElÑoquer.jpg",
+  "../assets/GatoTriste.jpg",
+  "../assets/JuanDepre.jpg",
+  "../assets/Mi primo.jpg",
+  "../assets/papa.jpg",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Capitan CP",
+  "El Ingeniero",
+  "El Perrin Colorado",
+  "El Gato Void",
+  "Minion Ñero",
+  "Perro Payasito",
+  "ShadowEstiloso",
+  "Ponte a Chambear VAGO",
+  "El Ñoquer",
+  "Gato triste (Miau Miauu Mia Miauuuu)",
+  "Juan Depre",
+  "Mi Primo",
+  "papa",
+
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Un Viejo Degenerado SuperHeroe con poderes especiales de disparar CP desde sus dedos ¡Impresionante!",
+  "Simplemente Eres El Ingerniero ¿Que mas Quieres?",
+  "La Version Tierna Y Mejor Del Chapulin !Tu No Abandonaste A Tu Familia¡",
+  "Un Gato Bien Ojon y Bien Despierto (Y Edgy)",
+  "Un Minion Con Severo Visaje, Nacido y Crecido En Las Calles de San Jorge Te Estilea Con Su Estilo Estiloso",
+  "Un perrito payasito que es gracioso y siempre hace reir a todos",
+  "Nuestro Erixo Edgy Ha Regresado Con Su Mero Estilo Y2k Para Farmear Aura",
+  "Ey, ya mucha bobada con que  momo eres, ponte a chambiar mas bien",
+  "Ñel Ñoquer Ñe Ño Ñonuncia Ñien Ñas Eñes",
+  "mia mia miaa miauuuuuu mia mia miaa mia miauuuuuuu",
+  "Un Caballo muy Fuckin Triste(Todo estara bien pana)",
+  "Simplemente me acorde de mi primo, mira te pareces xDXDXDX",
+  "Un Pdre de Familia Con La Foto De Perfil Mas Masculina Del Mundo (Mi Idolo)",
+
 ];
 
 // Trae los elementos del HTML que tienen ese id
